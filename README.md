@@ -11,10 +11,15 @@ just use run.sh so that it compiles the code and runs the program
 when you run the program it will ask you to first enter x for a math example, enter an integer or a floating point number, then enter an example, here are some functions that are used to denote math functions:
 
 S(x) - sin(x)
+
 C(x) - cos(x)
+
 T(x) - tg(x)
+
 G(x) - ctg(x)
+
 Q(x) - sqrt(x)
+
 A(x) - abs(x)
 
 p - pi = 3.14159265359
